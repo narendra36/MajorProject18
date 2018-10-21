@@ -1,2 +1,2 @@
 # MajorProject18
-Time table schedule generater using genetic algorithm.
+A Time Table Scheduler that uses Genetic Algorithm to create Schedules.
